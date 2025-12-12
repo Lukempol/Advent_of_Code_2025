@@ -1,4 +1,4 @@
-from day01 import cofre
+from day01pt2 import cofre
 
 def test_passa_100_3_vezes_para_no_0():
     resultado, n0 = cofre(90, 'R310')
